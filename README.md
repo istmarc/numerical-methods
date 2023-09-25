@@ -1,6 +1,6 @@
 # Numerical methods
 
-- Finding roots
+- [x] Finding roots
 - [] Polynomial interpolation
 - [] Splines interpolation
 - [] Numerical differentiation
