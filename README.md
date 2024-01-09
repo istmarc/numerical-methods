@@ -17,7 +17,7 @@
 - [] Systems of linear equations
 
 ### Roots and extremal points
-- [x] [Finding roots of functions](roots/Finding%20roots.ipynb)
+- [Finding roots of functions](roots/Finding%20roots.ipynb)
 - [] Extremal points
 
 ### Fourier transformation
